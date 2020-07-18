@@ -1,5 +1,5 @@
 ---
-title: Hack Python Grammar
+title: How to hack Python Grammar
 layout: post
 ---
 
