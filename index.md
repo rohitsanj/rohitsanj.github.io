@@ -6,8 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: My blog
 ---
-
-# My blog
 
 <a class="post-link" href="/gsoc">Google Summer of Code Blogs</a>
