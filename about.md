@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<b>Hey there!</b> 
+I'm a final year electronics engineering student at Manipal Institute of Technology, Manipal. I am a Pythonista and an open source enthusiast.
 
-I'm a third year student at Manipal Institute of Technology, Manipal. I am a Pythonista and an open source enthusiast.
+Here is my <a href="https://drive.google.com/file/d/1smYXerADrTAEYCItRHO-d7ggsYLR9Ziq/view?usp=sharing" target="_blank">CV</a>.
 
- <i>This page is under construction.. more to come soon.</i>
 <!---
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)-->
 

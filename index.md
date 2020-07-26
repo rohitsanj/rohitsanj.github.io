@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+# My blog
+
+<a class="post-link" href="/gsoc">Google Summer of Code Blogs</a>
