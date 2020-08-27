@@ -4,9 +4,9 @@ layout: post
 permalink: /gsoc/final-report
 ---
 
-This is my work product submission for the Google Summer of Code 2020 project on testbook. I have had an amazing time working with my amazing mentor Matthew Seal. I would like to thank him for guiding me in every step of the way.
+This is my work product submission for the Google Summer of Code 2020 project on testbook. I had an amazing time working with my mentor Matthew Seal. I would like to thank him for guiding me in every step of the way.
 
-## What work was done?
+## What work was done
 
 [Testbook][testbook] was built from scratch with the help of existing libraries such as [nbclient][nbclient] and [nbformat][nbformat]. We have done 6 [releases][releases] of `testbook` so far and at the time of writing this report, we are currently at version `0.2.2`.
 
@@ -37,7 +37,7 @@ Matthew and I have jointly submitted a talk proposal about testbook to PyCon Ind
 
 The talk proposal can be found [here](https://in.pycon.org/cfp/2020/proposals/unit-testing-jupyter-notebooks-testbook~epYwV/).
 
-## What's next?
+## What's next
 
 - Provide support for kernels other than ipython
 - Code coverage for notebooks
