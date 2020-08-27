@@ -44,7 +44,9 @@ The talk proposal can be found [here](https://in.pycon.org/cfp/2020/proposals/un
 
 ## Conclusion
 
-I'm glad to have brought testbook to a fairly usable state. I really hope that more and more organizations embrace unit testing for Jupyter Notebooks. We have already seen a few open source projects investigating the use of testbook and we would love to see more of that.
+I really hope that more and more organizations embrace unit testing for Jupyter Notebooks. We have already seen a few open source projects investigating the use of testbook and we would love to see more of that.
+
+I'm extremely glad that I got this opportunity to create and design a new open source project. I would like to thank nteract, NumFOCUS and Google for this opportunity.
 
 [testbook]: https://github.com/nteract/testbook
 [releases]: https://pypi.org/project/testbook/#history
