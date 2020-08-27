@@ -3,8 +3,11 @@ title: GSoC Blog 7 - Work Product Submission
 layout: post
 permalink: /gsoc/final-report
 ---
+## Introduction
 
 This is my work product submission for the Google Summer of Code 2020 project on testbook. I had an amazing time working with my mentor Matthew Seal. I would like to thank him for guiding me in every step of the way.
+
+Testbook is a unit testing framework for testing code in Jupyter Notebooks. With testbook, you can now write pytest style unit tests for notebooks, in separate .py files. Testbook can now help you write maintainable and reliable Jupyter Notebooks.
 
 ## What work was done
 
