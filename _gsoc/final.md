@@ -17,9 +17,9 @@ All deliverables in the proposal have been fulfilled.
 
 ### Links to work done
 
+- [Pull Requests raised](https://github.com/nteract/testbook/pulls?q=is%3Apr+label%3AGSoC-2020)
 - [Commits](https://github.com/nteract/testbook/commits?author=rohitsanj)
-- [Pull Requests raised](https://github.com/nteract/testbook/pulls?q=is%3Apr+author%3Arohitsanj+)
-- [Issues raised](https://github.com/nteract/testbook/issues?q=is%3Aissue+author%3Arohitsanj)
+- [Issues raised](https://github.com/nteract/testbook/issues?q=is%3Aissue+label%3AGSoC-2020+)
 
 ### Features Added
 
@@ -42,10 +42,14 @@ The talk proposal can be found [here](https://in.pycon.org/cfp/2020/proposals/un
 
 ## What's next
 
-- Provide support for kernels other than ipython
-- Code coverage for notebooks
+Here is what is in store for future releases of testbook
 
-## Conclusion
+- [Provide support for kernels other than ipython](https://github.com/nteract/testbook/issues/58)
+- [Code coverage for notebooks](https://github.com/nteract/testbook/issues/12)
+
+## Conclusion and Acknowledgement
+
+I would like to thank the team at **National Solar Observatory, Colorado, USA**  for considering use of testbook. I would also like to thank the team at **Mindtree, Bangalore, India** for providing critical feedback.
 
 I really hope that more and more organizations embrace unit testing for Jupyter Notebooks. We have already seen a few open source projects investigating the use of testbook and we would love to see more of that.
 
