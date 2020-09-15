@@ -71,13 +71,13 @@ We designed the API in such a way that it looks and feels like a normal unit tes
 
 Testbook has been very well received by the community so far. 
 
-<a href="https://twitter.com/MichelleUfford/status/1278126518716121089">
+<!-- <a href="https://twitter.com/MichelleUfford/status/1278126518716121089">
     <img alt="Michelle" src="/assets/tweets/michelle-tweet.webp" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
-</a>
+</a> -->
 
-<a href="https://twitter.com/amittrathi/status/1278202229825011712">
-    <img alt="Michelle" src="/assets/tweets/amit-tweet.webp" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
-</a>
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">So happy to see an OSS solution for unit testing <a href="https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw">@ProjectJupyter</a> notebooks. This is a game-changer for notebook reliability, and it substantially increases the viability of notebooks for mission-critical production use. Nice work, <a href="https://twitter.com/imrohitsanj?ref_src=twsrc%5Etfw">@imrohitsanj</a>! 👏 <a href="https://t.co/o7rbC6N8w7">https://t.co/o7rbC6N8w7</a></p>&mdash; Michelle Ufford (@MichelleUfford) <a href="https://twitter.com/MichelleUfford/status/1278126518716121089?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Nice! So good to have tests in a separate file than the artifact (notebook) being tested.</p>&mdash; Amit Rathi (@amittrathi) <a href="https://twitter.com/amittrathi/status/1278202229825011712?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We are desperately looking for more users to try out testbook.
 
