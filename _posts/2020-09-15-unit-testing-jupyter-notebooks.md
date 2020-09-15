@@ -60,7 +60,7 @@ We designed the API in such a way that it looks and feels like a normal unit tes
 
 1. Education Industry
 
-    Testbook can be used to write evaluation scripts for assignments submitted using Jupyter Notebooks. The team at [Jovian.ml](https://jovian.ml) is currently using testbook to conduct automated evaluation of assignments submitted for their ongoing course [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas).
+    Testbook can be used to write evaluation scripts for assignments submitted using Jupyter Notebooks. The team at [Jovian.ml](https://jovian.ml) is currently using testbook to conduct automated evaluation of assignments submitted for their course [Data Analysis with Python: Zero to Pandas](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas).
 
 2. Testing ETL Workflows
 
