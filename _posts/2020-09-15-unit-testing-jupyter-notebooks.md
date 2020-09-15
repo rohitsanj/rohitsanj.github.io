@@ -72,11 +72,11 @@ We designed the API in such a way that it looks and feels like a normal unit tes
 Testbook has been very well received by the community so far. 
 
 <a href="https://twitter.com/MichelleUfford/status/1278126518716121089">
-    <img alt="Michelle" src="/assets/tweets/michelle-tweet.png" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
+    <img alt="Michelle" src="/assets/tweets/michelle-tweet.webp" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
 </a>
 
 <a href="https://twitter.com/amittrathi/status/1278202229825011712">
-    <img alt="Michelle" src="/assets/tweets/amit-tweet.png" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
+    <img alt="Michelle" src="/assets/tweets/amit-tweet.webp" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
 </a>
 
 We are desperately looking for more users to try out testbook.
