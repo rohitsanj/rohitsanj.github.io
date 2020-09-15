@@ -19,8 +19,6 @@ Previous attempts at unit testing notebooks involved:
 
 **However, for unit tests there was no such library available. So.. [Matthew][Matthew] and I built one!**
 
----
-
 ## Testbook
 
 Testbook is a unit testing framework for testing code in Jupyter Notebooks. Testbook will allow for unit tests to be run against notebooks in separate test files, hence treating .ipynb files as .py files.
@@ -58,8 +56,6 @@ That's it! We designed the API in such a way that it looks and feels like a norm
 - Inject code into Jupyter notebooks
 - Works with any unit testing library - unittest, pytest or nose
 
----
-
 ## Use Cases
 
 1. Education Industry
@@ -75,10 +71,13 @@ That's it! We designed the API in such a way that it looks and feels like a norm
 
 Testbook has been very well received by the community so far. 
 
-[![Michelle](/assets/tweets/michelle-tweet.png)](https://twitter.com/MichelleUfford/status/1278126518716121089)
+<a href="https://twitter.com/MichelleUfford/status/1278126518716121089">
+    <img alt="Michelle" src="/assets/tweets/michelle-tweet.png" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
+</a>
 
-[![Amit](/assets/tweets/amit-tweet.png)](https://twitter.com/amittrathi/status/1278202229825011712)
-
+<a href="https://twitter.com/amittrathi/status/1278202229825011712">
+    <img alt="Michelle" src="/assets/tweets/amit-tweet.png" width="70%" style="margin-bottom: 10px; border: 1px solid black;">
+</a>
 
 We are desperately looking for more users to try out testbook.
 
