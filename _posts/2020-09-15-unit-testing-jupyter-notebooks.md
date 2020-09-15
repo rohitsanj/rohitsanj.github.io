@@ -7,7 +7,7 @@ TLDR: We built a library called [testbook](https://github.com/nteract/testbook) 
 
 ---
 
-Jupyter Notebooks have been around for quite some time now and are being used extensively in the data science domain - mainly for experimentation and visualization. However, in the recent times, notebooks have been making headway into production pipelines. 
+Jupyter Notebooks have been around for quite some time now and are being used extensively in the data science domain - mainly for experimentation and visualization. However, in the recent times, notebooks have been making headway into production environments. 
 
 Some companies like Netflix have readily adopted notebooks in their production pipelines using tools like papermill and nteract. Read more about that [here][netflix-blog]. With this, it becomes extremely important to have reliable and maintainable notebooks.
 
@@ -83,7 +83,7 @@ We are desperately looking for more users to try out testbook.
 
 If you are looking for assistance on setting up a unit testing suite for your notebooks, you can reach out to me directly at [sanjay.rohit2@gmail.com](mailto:sanjay.rohit2@gmail.com) and I would be more than willing to help you.
 
-Thank you for reading my blog!
+Thank you for reading my blog! Please let me know what you think in the comments below, I'd love to have a chat.
 
 ---
 
