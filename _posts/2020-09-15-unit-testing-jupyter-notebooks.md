@@ -15,7 +15,7 @@ Previous attempts at unit testing notebooks involved:
 
 - **Writing tests in the notebook itself:** This approach makes the hard to read and maintain. 
 - **Testing against saved notebook outputs:** This would not be useful in real world situations where data usually changes, or when there are non-deterministic outputs to be tested.
-- **Write integration tests for the whole notebook:**: There are tools like [papermill][papermill] which can be used for this. (Although the purpose of papermill is _slightly_ different)
+- **Writing integration tests for the whole notebook:**: There are tools like [papermill][papermill] which can be used for this. (Although the purpose of papermill is _slightly_ different)
 
 **However, for unit tests there was no such library available. So.. [Matthew][Matthew] and I built one!**
 
@@ -45,7 +45,7 @@ def test_func(tb):
    assert func(1, 2) == 3
 ```
 
-That's it! We designed the API in such a way that it looks and feels like a normal unit test, except it would be running in the notebook.
+We designed the API in such a way that it looks and feels like a normal unit test, except it would be running in the notebook. Also, since testbook is only provides the assertion part of the _equation_ (pun intended), you can use testbook with practically any unit testing Python framework.
 
 ### Features
 
