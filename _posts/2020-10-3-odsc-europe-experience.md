@@ -3,7 +3,7 @@ title: Sharing my experience of attending ODSC Europe 2020 🌍
 layout: post
 ---
 
-I had the privilege of attending [ODSC Europe][https://odsc.com/europe/] from September 17th - 19th, 2020. I was given a 4-day pass from the team at [JovianML](https://jovian.ml), and I am ever grateful to them for giving me this opportunity. Thanks Vishal and Aakash!
+I had the privilege of attending [ODSC Europe](https://odsc.com/europe/) from September 17th - 19th, 2020. I was given a 4-day pass from the team at [JovianML](https://jovian.ml), and I am ever grateful to them for giving me this opportunity. Thanks Vishal and Aakash!
 
 ![ODSC-Certificate](https://i.imgur.com/bYEp2fb.png)
 
